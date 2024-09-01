@@ -1,0 +1,13 @@
+# Configure main menu and social menu
+#[[main]]
+#identifier = "home"
+#name = "Home"
+#url = "/"
+#[main.params]
+#icon = "home"
+#newtab = true
+
+[[social]]
+identifier = "bestbyd"
+name = "BestBYD"
+url = "https://bestbyd.com"
