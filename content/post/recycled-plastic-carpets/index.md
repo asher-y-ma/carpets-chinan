@@ -1,5 +1,5 @@
 ---
-title: The Application of Recycled Plastics in Carpet Manufacturing: From Waste to Eco-Friendly Flooring
+title: The Application of Recycled Plastics in Carpet Manufacturing
 date: 2022-08-12 00:00:00+0000
 draft: false
 ---
