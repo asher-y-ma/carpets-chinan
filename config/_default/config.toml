@@ -16,6 +16,7 @@ hasCJKLanguage = false
 disqusShortname = "hugo-theme-stack"
 
 enableRobotsTXT = true
-[services]
-  [services.googleAnalytics]
-    googleAnalytics = "G-6BSENMYR28"
+
+# 添加 Google Analytics 配置
+[services.googleAnalytics]
+ID = "G-6BSENMYR28"
