@@ -16,5 +16,6 @@ hasCJKLanguage = false
 disqusShortname = "hugo-theme-stack"
 
 enableRobotsTXT = true
-[params]
-  googleAnalytics = "G-6BSENMYR28" 
+[services]
+  [services.googleAnalytics]
+    googleAnalytics = 'G-6BSENMYR28'
