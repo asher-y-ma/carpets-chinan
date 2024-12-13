@@ -18,4 +18,4 @@ disqusShortname = "hugo-theme-stack"
 enableRobotsTXT = true
 [services]
   [services.googleAnalytics]
-    googleAnalytics = 'G-6BSENMYR28'
+    googleAnalytics = "G-6BSENMYR28"
